@@ -5,6 +5,5 @@
     echo $_GET['email'];
 
     echo '<br />';
-    echo '<br />';
     echo $_GET['senha'];
 ?>
