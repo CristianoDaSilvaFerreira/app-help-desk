@@ -27,7 +27,7 @@
               Login
             </div>
             <div class="card-body">
-              <form action="valita_login">
+              <form action="valita_login.php">
                 <div class="form-group">
                   <input type="email" class="form-control" placeholder="E-mail">
                 </div>
